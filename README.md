@@ -16,3 +16,4 @@ https://www.kaggle.com/narasimha1997/faster-semantic-search-using-faiss
 
 ## Pubtator
 https://www.ncbi.nlm.nih.gov/research/pubtator/
+https://nlp.johnsnowlabs.com/api/python/user_guide/training.html

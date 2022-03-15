@@ -3,9 +3,10 @@
 Keyphrase Extractions
 
 Here is some interesting stuff that I want to talk about.  But first, let's review.
+Insert [Abstract_tfidf_doc.html](Abstract_tfidf_doc.html)
+path [here](https://htmlpreview.github.io/?) 
 
-[tfidf](Abstract_tfidf_doc.html)
-
+## cd V:/ML_projects/BioNLP
 
 Roadmap 
 

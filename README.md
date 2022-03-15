@@ -6,10 +6,30 @@ Here is some interesting stuff that I want to talk about.  But first, let's revi
 Insert [Abstract_tfidf_doc.html](Abstract_tfidf_doc.html)
 path [here](https://htmlpreview.github.io/?) 
 
-## cd V:/ML_projects/BioNLP
+Fasttext Word2vec and Biowordvec Embedding for word similarity check
+
+Fasttext
+To get Fastext Word embedding run fasttext_model.py from Fasttext directory 
+Uncomment last and will store word embedding in word_embedding folder
+word2vec5k.bin
+word2vec5k.bin.wv.vectors_ngrams.npy
+
+Bioword vec Embedding
+To download Biowordvec embedding click [here](https://figshare.com/articles/dataset/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647)
+ 
+Run word_vec_app.py 
+Will display
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+Enter in Browser
+word2vec
+http://127.0.0.1:5000/most_similar?word=crispr
+
+Bioword2vec
+http://127.0.0.1:5000/bioword_most_similar?word=crispr
+
 
 Roadmap 
-
 ## Name Entity Recognition 
 https://metatext.io/datasets-list/ner-task
 

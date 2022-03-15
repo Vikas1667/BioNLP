@@ -32,7 +32,17 @@ To download Biowordvec embedding click
     http://127.0.0.1:5000/bioword_most_similar?word=crispr
 
 
+### Fasttext 
+![fasttext](Keyphrase_Extraction_and_Normalization/fasttext_word_similarity.JPG)
+
+### Bioword 
+![Bioword2vec](Keyphrase_Extraction_and_Normalization/biowordvec_word_similarity.JPG)
+
+##Biomedical Product Extraction and Consolidation
+
+
 Roadmap 
+
 ## Name Entity Recognition 
 https://metatext.io/datasets-list/ner-task
 

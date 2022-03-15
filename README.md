@@ -38,6 +38,23 @@ To download Biowordvec embedding click
 ### Bioword 
 ![Bioword2vec](Keyphrase_Extraction_and_Normalization/biowordvec_word_similarity.JPG)
 
+## Keyphrase Extraction roadmap and skeleton
+
+1. Condidate Keywords selection
+   i.  Bioword2vec  
+   ii. Scispacy
+
+2. Sentence Transformers
+   i.  Scibert(scibert-nli)
+   ii. DistilBERT(Fast execution)
+
+3. Redundant and duplicate Keyphrase elimination
+   i. Maximal Marginal Retrieval
+   
+Further Improvements
+1. Streamlit app for term searched pubmed full text article extraction and extract Keyphrase
+2. Fastapi for serving as service for Keyphrase Extractions
+3. Create Generalize NER model using Biomedical Corpora given [here](https://github.com/BaderLab/Biomedical-Corpora)
 
 ##Biomedical Product Extraction and Consolidation
 

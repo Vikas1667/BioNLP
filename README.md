@@ -38,6 +38,7 @@ To download Biowordvec embedding click
 ### Bioword 
 ![Bioword2vec](Keyphrase_Extraction_and_Normalization/biowordvec_word_similarity.JPG)
 
+
 ##Biomedical Product Extraction and Consolidation
 
 

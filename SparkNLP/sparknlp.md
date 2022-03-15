@@ -78,3 +78,21 @@ print("Apache Spark version: ", spark.version)
 
 
 
+### Issues
+TypeError: 'JavaPackage' object is not callable
+
+ref : https://github.com/JohnSnowLabs/spark-nlp#usage
+
+used and Worked in my case 
+pyspark --packages com.johnsnowlabs.nlp:spark-nlp_2.12:3.3.4
+
+spark = SparkSession.builder \
+    .appName("Spark NLP")\
+    .master("local[4]")\
+    .config("spark.driver.memory","16G")\
+    .config("spark.driver.maxResultSize", "0") \
+    .config("spark.kryoserializer.buffer.max", "2000M")\
+    .config("spark.jars.packages", "com.johnsnowlabs.nlp:spark-nlp_2.12:3.3.4")\
+    .getOrCreate()
+     
+ 

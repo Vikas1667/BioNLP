@@ -1,5 +1,14 @@
 # BioNLP
 
+Keyphrase Extractions
+
+Here is some interesting stuff that I want to talk about.  But first, let's review.
+
+[tfidf](Abstract_tfidf_doc.html)
+
+
+Roadmap 
+
 ## Name Entity Recognition 
 https://metatext.io/datasets-list/ner-task
 

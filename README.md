@@ -15,7 +15,7 @@ Uncomment last and will store word embedding in word_embedding folder
     1. word2vec5k.bin
     2. word2vec5k.bin.wv.vectors_ngrams.npy
 
-#### Bioword vec Embedding
+#### Biowordvec Embedding
 To download Biowordvec embedding click 
 [here](https://figshare.com/articles/dataset/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647)
 
@@ -57,8 +57,17 @@ Further Improvements
 3. Create Generalize NER model using Biomedical Corpora given [here](https://github.com/BaderLab/Biomedical-Corpora)
 
 ##Biomedical Product Extraction and Consolidation
+Inprogress
 
 
+
+
+
+
+
+
+### Biomedical symtoms audio and text classification
+https://www.kaggle.com/paultimothymooney/medical-symptoms-text-and-audio-classification/notebook
 Roadmap 
 
 ## Name Entity Recognition 

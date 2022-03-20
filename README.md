@@ -39,11 +39,15 @@ To download Biowordvec embedding click
 ![Bioword2vec](Keyphrase_Extraction_and_Normalization/biowordvec_word_similarity.JPG)
 
 ## Keyphrase Extraction roadmap and skeleton
+To check keyword extraction extraction pipeline
+First download Bioword2vec pretrained embedding from [here](https://figshare.com/articles/dataset/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647)
+and put inside word_embedding directory and run main.py
 
-1. Condidate Keywords selection
+* Below is workflow in nutshell to get insights 
+1. Candidate Keywords selection and Extraction
    i.  Bioword2vec  
    ii. Scispacy
-
+   
 2. Sentence Transformers
    i.  Scibert(scibert-nli)
    ii. DistilBERT(Fast execution)
@@ -57,7 +61,7 @@ Further Improvements
 3. Create Generalize NER model using Biomedical Corpora given [here](https://github.com/BaderLab/Biomedical-Corpora)
 
 ##Biomedical Product Extraction and Consolidation
-Inprogress
+In progress will just provide skeleton 
 
 
 

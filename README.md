@@ -60,6 +60,13 @@ Further Improvements
 2. Fastapi for serving as service for Keyphrase Extractions
 3. Create Generalize NER model using Biomedical Corpora given [here](https://github.com/BaderLab/Biomedical-Corpora)
 
+
+![image](Knowledge_graph.png)
+
+
+
+
+
 ##Biomedical Product Extraction and Consolidation
 In progress will just provide skeleton 
 

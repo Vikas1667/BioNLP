@@ -9,7 +9,6 @@ from keyword_extractor import Keyword_extractor,scispacy_cand_keys,candidate_key
 from keyword_extractor import word_doc_embedding
 
 
-
 if __name__ == "__main__":
     """BioWordVec model"""
     BioWordVec_path = './word_embedding/bio_embedding_intrinsic.bin'

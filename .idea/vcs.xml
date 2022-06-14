@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BioWordVec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeyBERT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fasttextrank" vcs="Git" />
   </component>
 </project>

@@ -4,6 +4,7 @@ State of Art
 ## LinkBERT: A Knowledgeable Language Model Pretrained with Document Links
 paper link [here](https://arxiv.org/abs/2203.15827)
 ![LinkBERT](./LinkBERT.png)
+https://www.marktechpost.com/2022/06/08/stanford-ai-researchers-propose-linkbert-a-new-pretraining-method-that-improves-language-model-training-with-document-links/
 ```
 #github 
 https://github.com/michiyasunaga/LinkBERT

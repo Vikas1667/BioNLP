@@ -66,15 +66,8 @@ Further Improvements
 
 
 
-
 ##Biomedical Product Extraction and Consolidation
 In progress will just provide skeleton 
-
-
-
-
-
-
 
 
 ### Biomedical symtoms audio and text classification
@@ -89,6 +82,7 @@ https://medium.com/nerd-for-tech/building-bi-encoder-based-entity-linking-system
 https://github.com/izuna385/Entity-Linking-Recent-Trends
 
 ## Semantic search engine using Transformers and Faiss
+![semantic](./semantic_search_engine/Semantic_search_sentencetransformers_Faiss.JPG)
 
 https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8
 https://towardsdatascience.com/how-to-deploy-a-semantic-search-engine-with-streamlit-and-docker-on-aws-elastic-beanstalk-42ddce0422f3

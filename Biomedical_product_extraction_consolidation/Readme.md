@@ -55,3 +55,15 @@ gdd.download_file_from_google_drive(file_id='1kMbTsc9rPpBc-6ezEHjMbQLljW3SUWG9',
 We will test model accuracy for sample pmid and will predict the entity for material methods data.
 
 ![sample_extraction](./images/sample_data_extraction.png)
+
+#### Product collector
+We have created product collector streamlit app to get the data and train the sample data
+
+
+![image](./images/prod_store.JPG)
+
+#### Keypoints
+1. Terms can be used to search  
+2. Pubmed and solr checkbox to search in pubmed or solr
+3. Get the material methods or chunks using product extraction v1 for labeling
+4. Predict with material methods chunks and saved

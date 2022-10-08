@@ -6,19 +6,19 @@ from sentence_transformers import SentenceTransformer
 from vector_engine.utils import vector_search
 
 
-@st.cache
+# @st.cache
 def read_data(data="data/misinformation_papers.csv"):
     """Read the data from local."""
     return pd.read_csv(data)
 
 
-@st.cache(allow_output_mutation=True)
-def load_bert_model(name="distilbert-base-nli-stsb-mean-tokens"):
+# @st.cache(allow_output_mutation=True)
+def load_bert_model(name="sentence-transformers_paraphrase-MiniLM-L6-v2"):
     """Instantiate a sentence-level DistilBERT model."""
     return SentenceTransformer(name)
 
 
-@st.cache(allow_output_mutation=True)
+# @st.cache(allow_output_mutation=True)
 def load_faiss_index(path_to_faiss="models/faiss_index.pickle"):
     """Load and deserialize the Faiss index."""
     with open(path_to_faiss, "rb") as h:
